@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammad-khalid-hasan" alt="mohammad-khalid-hasan" /></a> </p>
 
-- 🔭 I’m currently working as [Tranee Software Engineer at](BJIT)
+- 🔭 I’m currently working as [Software Engineer at](BJIT)
 
 - 🌱 I’m currently learning **Kafka, Hibernate, JSP and Servlet**
 
